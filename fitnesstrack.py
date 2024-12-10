@@ -283,7 +283,9 @@ def export_nutrition():
 
 def main():
     while True:
-        print("\nFitness Tracking System")
+        print("\n===========Fitness Tracking System==========")
+        print("===Presented in Kanha Makhan Public School=====")
+        print("========Created By-Utkarsh Sharma & sumit Kumar ===")
         print("1. Register User")
         print("2. Authenticate User")
         print("3. Add Workout")
